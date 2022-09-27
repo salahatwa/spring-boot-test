@@ -8,6 +8,6 @@ public class TestController {
 
   @GetMapping("/test")
   public String test() {
-    return "This is TestController testing startup shell script ................................ _^_6";
+    return "Adding git pull yaaaaaaaaaaaaaahhhhhhhhhh ................................ _^_6";
   }
 }
